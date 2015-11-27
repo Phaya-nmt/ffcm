@@ -80,3 +80,8 @@ gem 'coffee-rails'
 gem 'uglifier'
 gem 'execjs'
 gem 'therubyracer', platform: :ruby unless ENV["CI"]
+
+gem 'will_paginate'
+gem 'annotate'
+gem 'thin'
+gem 'rails-erd'
